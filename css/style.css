@@ -1,0 +1,46 @@
+/* @import "null.css" */
+
+span{
+	color: rgb(119, 2, 103);
+}
+
+.list-item span{
+	color: rgb(0, 109, 5);
+}
+
+.questions{
+	color: red;
+}
+
+#section1{
+	color: rgb(107, 188, 255);
+}
+
+div.content-block1{
+	color: rgb(236, 165, 114);
+}
+
+div h2{
+	color: rgb(145, 143, 143);
+}
+
+.content-block2.block2{
+	color: blue;
+}
+
+.content-block3, .content-block4{
+	color: rgb(24, 231, 24);
+}
+
+[class*="-block-block"]{
+	color: hotpink;
+}
+
+
+
+
+
+
+.footer span{
+	color: rgb(202, 206, 9);
+}
